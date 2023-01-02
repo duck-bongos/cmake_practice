@@ -1,0 +1,3 @@
+/Users/dan/all_developing/cpp/cmake_practice/build/CMakeFiles/Toot.dir
+/Users/dan/all_developing/cpp/cmake_practice/build/CMakeFiles/edit_cache.dir
+/Users/dan/all_developing/cpp/cmake_practice/build/CMakeFiles/rebuild_cache.dir
